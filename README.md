@@ -117,4 +117,7 @@ For questions, suggestions, or collaboration opportunities, please reach out to 
 
 ---
 
+0x91F812dc142c0F44D7141EFEbF2AF3Cb174c35e4
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/63fd5fbe-a862-4c20-a7e8-47383a5918ce" />
+
 *Building a sustainable future, one block at a time.*
